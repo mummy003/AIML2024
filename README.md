@@ -3,3 +3,4 @@
 #Assignment4://github.com/mummy003/AIML2024/blob/main/Assignment4.ipynb
 #Assignment5://https://github.com/mummy003/AIML2024/blob/main/Assignment_5.ipynb
 #Assignment5.2:https://github.com/mummy003/AIML2024/blob/main/Assignment_5_2ipynb.ipynb
+#Assignment6https://github.com/mummy003/AIML2024/blob/main/Assignment_6.ipynb
