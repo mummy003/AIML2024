@@ -5,3 +5,4 @@
 #Assignment5.2:https://github.com/mummy003/AIML2024/blob/main/Assignment_5_2ipynb.ipynb
 #Assignment6https://github.com/mummy003/AIML2024/blob/main/Assignment_6.ipynb
 #Assignment-7:https://github.com/mummy003/AIML2024/blob/main/ASSIGNMENT-7.ipynb
+#Assignment-9:https://github.com/mummy003/AIML2024/blob/main/Assignment-9%20aiml.ipynb
