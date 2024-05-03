@@ -7,3 +7,4 @@
 #Assignment-7:https://github.com/mummy003/AIML2024/blob/main/ASSIGNMENT-7.ipynb
 #Assignment-9:https://github.com/mummy003/AIML2024/blob/main/Assignment-9%20aiml.ipynb
 #Assignment-10:https://github.com/mummy003/AIML2024/blob/main/Assignment_10.ipynb
+#project code:https://github.com/mummy003/AIML2024/blob/main/ELECTRICITY_LOAD_FORECASTING.ipynb
